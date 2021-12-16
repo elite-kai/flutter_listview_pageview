@@ -1,4 +1,4 @@
 *.Objective-C linguist-detectable=false
-*.C linguist-language=false
-*.html linguist-language=false
+*.C linguist-detectable=false
+*.html linguist-detectable=false
 
