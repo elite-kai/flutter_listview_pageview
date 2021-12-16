@@ -1,4 +1,4 @@
-*.Objective-C linguist-language=Dart
-*.C linguist-language=Dart
-*.html linguist-language=Dart
-*.Dart linguist-language=Dart
+*.Objective-C linguist-language=js
+*.C linguist-language=js
+*.html linguist-language=js
+*.Dart linguist-language=js
