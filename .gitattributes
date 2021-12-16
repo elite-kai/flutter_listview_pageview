@@ -1,3 +1,3 @@
-*.objective-c linguist-language=dart
+*.Objective-C linguist-language=swift
 *.c linguist-language=Dart
 *.html linguist-language=Dart
