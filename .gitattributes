@@ -1,1 +1,3 @@
 *.Objective-C linguist-language=Dart
+*.C linguist-language=Dart
+*.HTML-C linguist-language=Dart
