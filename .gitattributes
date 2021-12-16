@@ -1,4 +1,4 @@
-*.Objective-C linguist-language=js
-*.C linguist-language=js
-*.html linguist-language=js
-*.Dart linguist-language=js
+*.Objective-C linguist-detectable=false
+*.C linguist-language=false
+*.html linguist-language=false
+
